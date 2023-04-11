@@ -1,1 +1,2 @@
-# config
+# about some config file
+# such as vim vscode ...
